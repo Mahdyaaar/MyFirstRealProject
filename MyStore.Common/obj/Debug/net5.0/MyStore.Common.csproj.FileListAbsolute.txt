@@ -1,0 +1,12 @@
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\bin\Debug\net5.0\MyStore.Common.deps.json
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\bin\Debug\net5.0\MyStore.Common.dll
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\bin\Debug\net5.0\ref\MyStore.Common.dll
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\bin\Debug\net5.0\MyStore.Common.pdb
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\MyStore.Common.csproj.AssemblyReference.cache
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\MyStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\MyStore.Common.AssemblyInfoInputs.cache
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\MyStore.Common.AssemblyInfo.cs
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\MyStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\MyStore.Common.dll
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\ref\MyStore.Common.dll
+C:\Users\Assassins\source\repos\MyStore\MyStore.Common\obj\Debug\net5.0\MyStore.Common.pdb
